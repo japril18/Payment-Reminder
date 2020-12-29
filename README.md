@@ -1,2 +1,0 @@
-# Payment-Reminder
-Payment Reminer
